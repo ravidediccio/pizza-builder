@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class PizzaMargheritaBuilder implements  PizzaBuilder{
+public class PizzaMargheritaBuilder implements PizzaBuilder {
 
     private Pizza pizzaMargherita = new Pizza();
 
