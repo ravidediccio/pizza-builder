@@ -1,0 +1,3 @@
+public enum Impasto {
+    FARINAZERO, QUATTROCEREALI, INTEGRALE, CELIACO
+}
