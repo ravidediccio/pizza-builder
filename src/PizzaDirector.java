@@ -1,10 +1,17 @@
 public class PizzaDirector {
 
-    void makePizzaMargherita(PizzaMargheritaBuilder builder) {
+    void makePizzaMargherita(PizzaBuilder builder) {
         builder.addImpasto();
+        builder.isRossa();
         builder.addFormaggio();
         builder.addCondimento();
-        builder.isRossa();
-        builder.getPizza();
     }
+
+    void makePizzaPatateSalsiccia(PizzaBuilder builder) {
+        builder.addImpasto();
+        builder.isRossa();
+        builder.addFormaggio();
+        builder.addCondimento();
+    }
+
 }

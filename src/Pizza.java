@@ -35,7 +35,7 @@ public class Pizza {
     }
 
     public boolean isRossa() {
-        return isRossa;
+        return isRossa = true;
     }
 
     public void setRossa(boolean rossa) {
@@ -48,5 +48,16 @@ public class Pizza {
 
     public void setFritta(boolean fritta) {
         isFritta = fritta;
+    }
+
+    @Override
+    public String toString() {
+        return "Pizza{" +
+                "impasto=" + impasto +
+                ", formaggio=" + formaggio +
+                ", condimenti=" + condimenti +
+                ", isRossa=" + isRossa +
+                ", isFritta=" + isFritta +
+                '}';
     }
 }

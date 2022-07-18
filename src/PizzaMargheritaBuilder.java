@@ -18,17 +18,17 @@ public class PizzaMargheritaBuilder implements  PizzaBuilder{
 
     @Override
     public void addCondimento() {
-        HashSet<Condimento> condimentiMargerita = new HashSet<>();
-        condimentiMargerita.add(Condimento.OLIOEVO);
-        condimentiMargerita.add(Condimento.BASILICO);
-        pizzaMargherita.setCondimenti(condimentiMargerita);
+        HashSet<Condimento> condimentiMargherita = new HashSet<>();
+        condimentiMargherita.add(Condimento.OLIOEVO);
+        condimentiMargherita.add(Condimento.BASILICO);
+        pizzaMargherita.setCondimenti(condimentiMargherita);
         System.out.println("Abbiamo aggiunto i condimenti...");
     }
 
     @Override
     public boolean isRossa() {
         System.out.println("Abbiamo messo il pomodoro...");
-        return true;
+        return pizzaMargherita.isRossa();
     }
 
     @Override
