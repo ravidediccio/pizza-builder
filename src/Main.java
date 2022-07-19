@@ -16,11 +16,20 @@ public class Main {
         pizzaDirector.makePizzaPatateSalsiccia(pizzaPatateSalsicciaBuilder);
         Pizza pizzaPatateSalsiccia = pizzaPatateSalsicciaBuilder.getPizza();
 
+        System.out.println(" ");
+
+        //builder della pizza patate e wustel
+        System.out.println("stiamo preparando la pizza più buona tra tutte per te,ovvero patate e wustel :) :");
+        PizzaBuilder pizzaWustelEPatateBuilder = new PizzaWustelEPatateBuilder();
+        pizzaDirector.makePizzaWustelEPatate(pizzaWustelEPatateBuilder);
+        Pizza pizzaWustelEPatate = pizzaWustelEPatateBuilder.getPizza();
+
 
         System.out.println("\n");
 
 
         System.out.println(pizzaMargherita);
         System.out.println(pizzaPatateSalsiccia);
+        System.out.println(pizzaWustelEPatate);
     }
 }
