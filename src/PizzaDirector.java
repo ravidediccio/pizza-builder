@@ -14,4 +14,9 @@ public class PizzaDirector {
         builder.addCondimento();
     }
 
+    public void makeFocaccia(PizzaBuilder builder){
+        builder.addImpasto();
+        builder.addCondimento();
+    }
+
 }
