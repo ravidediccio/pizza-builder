@@ -2,15 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaddb28a-9393-4a18-ae21-70a804608647" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spiegazione.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spiegazione.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/PizzaWustelEPatateBuilder.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FocacciaBuilder.java" afterDir="false" />
+>>>>>>> a54dc5a9d2bd66177ed69221655675b7f4866365
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Condimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PizzaDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PizzaDirector.java" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/PizzaMargheritaBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PizzaMargheritaBuilder.java" afterDir="false" />
+>>>>>>> a54dc5a9d2bd66177ed69221655675b7f4866365
+>>>>>>> 0165da638d3fec25a942ed22becdfac97980a412
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 0165da638d3fec25a942ed22becdfac97980a412
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,6 +50,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -31,8 +59,17 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/OneDrive/Documenti/IdeaProjects/davidericcio GitHub/pizza-builder&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+>>>>>>> 0165da638d3fec25a942ed22becdfac97980a412
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -55,9 +92,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658156444278</updated>
+<<<<<<< HEAD
       <workItem from="1658216910943" duration="107000" />
       <workItem from="1658217025799" duration="930000" />
       <workItem from="1658223561214" duration="3421000" />
+=======
+      <workItem from="1658224296972" duration="2307000" />
+>>>>>>> 0165da638d3fec25a942ed22becdfac97980a412
     </task>
     <servers />
   </component>
@@ -75,6 +116,7 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -86,6 +128,8 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+>>>>>>> 0165da638d3fec25a942ed22becdfac97980a412
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
