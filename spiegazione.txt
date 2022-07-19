@@ -13,7 +13,7 @@ rappresentazione, il tipo e il valore di questi oggetti: per esempio possiamo co
 di legno ma anche di pietra, con o senza finestre, ecc... a seconda dei builders che utiliazziamo.
 
 Gli elementi del builder sono:
-Director -> costruisce il prodotto utilizzando l’interfaccia Builder.
+Director -> comanda la costruzione del prodotto utilizzando l’interfaccia Builder e il ConcreteBuilder del tipo di oggetto.
 Builder -> l’interfaccia che definisce gli step comuni di tutti i tipi di builders.
 ConcreteBuilder -> implementano l'interfaccia comune Builder, costruiscono e assemblano
 le parti dell'oggetto da creare.

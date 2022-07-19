@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
+        PizzaDirector pizzaDirector = new PizzaDirector();
+
         //builder della pizza margherita
         System.out.println("Stiamo preparando la pizza margherita per te:");
-        PizzaDirector pizzaDirector = new PizzaDirector();
         PizzaBuilder pizzaMargheritaBuilder = new PizzaMargheritaBuilder();
         pizzaDirector.makePizzaMargherita(pizzaMargheritaBuilder);
         Pizza pizzaMargherita = pizzaMargheritaBuilder.getPizza();
